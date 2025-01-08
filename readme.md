@@ -17,7 +17,6 @@
     <li>Buat database baru dengan nama db_penggajian</li>
     <li>Import database aplikasi ke dalam database db_penggajian</li>
     <li>Jalankan aplikasi dengan ketik localhost/aplikasi_penggajian/index.php</li>
-    <li>Jalankan aplikasi dengan ketik localhost/aplikasi_penggajian/rahasia/index.php</li>
     <li>Login dengan akses : direktur, username : direktur, password : direktur</li>
     <ol type=1>
         <h4>Khusus Halaman rahasia</h4>
