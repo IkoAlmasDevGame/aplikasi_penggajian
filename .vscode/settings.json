@@ -1,0 +1,6 @@
+{
+    "files.autoSaveDelay": 10000,
+    "files.autoSaveWhenNoErrors": true,
+    "files.autoSaveWorkspaceFilesOnly": true,
+    "files.autoSave": "afterDelay"
+}
