@@ -11,7 +11,7 @@
 <h3>Panduan Instalasi :</h3>
 <br>
 <ol type=a>
-    <li>Copy folder si_masjid, lalu paste ke folder htdocs</li>
+    <li>Copy folder aplikasi_penggajian, lalu paste ke folder htdocs</li>
     <li>Aktifkan Apache dan MySQL pada Xampp</li>
     <li>Buka browser, lalu buka alamat localhost/phpMyAdmin</li>
     <li>Buat database baru dengan nama db_penggajian</li>
